@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\КаменеваСвет\КнопкиСветофор\bin\Debug\КнопкиСветофор.exe.config
+C:\Users\user\Desktop\КаменеваСвет\КнопкиСветофор\bin\Debug\КнопкиСветофор.exe
+C:\Users\user\Desktop\КаменеваСвет\КнопкиСветофор\bin\Debug\КнопкиСветофор.pdb
+C:\Users\user\Desktop\КаменеваСвет\КнопкиСветофор\obj\Debug\КнопкиСветофор.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\КаменеваСвет\КнопкиСветофор\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\КаменеваСвет\КнопкиСветофор\obj\Debug\App.g.cs
+C:\Users\user\Desktop\КаменеваСвет\КнопкиСветофор\obj\Debug\КнопкиСветофор_MarkupCompile.cache
+C:\Users\user\Desktop\КаменеваСвет\КнопкиСветофор\obj\Debug\КнопкиСветофор_MarkupCompile.lref
+C:\Users\user\Desktop\КаменеваСвет\КнопкиСветофор\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\КаменеваСвет\КнопкиСветофор\obj\Debug\КнопкиСветофор.g.resources
+C:\Users\user\Desktop\КаменеваСвет\КнопкиСветофор\obj\Debug\КнопкиСветофор.Properties.Resources.resources
+C:\Users\user\Desktop\КаменеваСвет\КнопкиСветофор\obj\Debug\КнопкиСветофор.csproj.GenerateResource.cache
+C:\Users\user\Desktop\КаменеваСвет\КнопкиСветофор\obj\Debug\КнопкиСветофор.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\КаменеваСвет\КнопкиСветофор\obj\Debug\КнопкиСветофор.exe
+C:\Users\user\Desktop\КаменеваСвет\КнопкиСветофор\obj\Debug\КнопкиСветофор.pdb
+C:\Users\user\Desktop\КаменеваСвет\КнопкиСветофор\obj\Debug\Светофор.g.cs
+C:\Users\user\Desktop\КаменеваСвет\КнопкиСветофор\obj\Debug\Светофор.baml
